@@ -10,3 +10,9 @@ https://www.youtube.com/watch?v=wa2AfzyOff0&list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6
 Grademe
 https://github.com/JCluzet/GrademeBash
 https://github.com/JCluzet/GrademeBash.git
+
+Recursive - Neso Academy
+https://www.youtube.com/watch?v=kepBmgvWNDw&list=PLBlnK6fEyqRjTO_UNGKuaaoxEqvSF0t5h
+
+Moulinette 42
+https://github.com/k11q/mini-moulinette
