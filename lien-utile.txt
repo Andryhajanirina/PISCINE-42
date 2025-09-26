@@ -16,3 +16,12 @@ https://www.youtube.com/watch?v=kepBmgvWNDw&list=PLBlnK6fEyqRjTO_UNGKuaaoxEqvSF0
 
 Moulinette 42
 https://github.com/k11q/mini-moulinette
+
+FINAL EXAM
+https://github.com/alanbarrett2/42-Final-Exam
+https://github.com/alanbarrett2/42-Final-Exam.git
+https://github.com/ayoub0x1/C-Piscine-exam.git
+
+
+Minishell
+git@github.com:JCluzet/Minishell.git
